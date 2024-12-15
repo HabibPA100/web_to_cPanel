@@ -8,14 +8,8 @@
             </div>
             <div class="container mt-5">
                 <div class="card text-center">
-                  <div class="ratio ratio-16x9">
-                   
-                    {{-- <iframe
-                      src="https://drive.google.com/file/d/1CCv0hJLojRAbTz2xVYQs0PrawCoa0tYA/preview#toolbar=0&navpanes=0&scrollbar=0"
-                      frameBorder="0"
-                      scrolling="auto"
-                      allowfullscreen>
-                    </iframe> --}}
+                  <div class="ratio ratio-16x9"> 
+                    <iframe src="https://drive.google.com/file/d/1ehM9_KBpNalYnTVtunRtn4zR_9ZgNAUR/preview" width="640" height="480" allow="autoplay"></iframe>
                   </div>
                 </div>
               </div> 
