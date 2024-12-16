@@ -7,7 +7,6 @@
     <title>Hafez Students List</title>
     <style>
         *{
-            box-sizing: border-box;
             font-family: kalpurush;
         }
         html {
