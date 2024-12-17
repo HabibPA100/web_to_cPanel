@@ -32,7 +32,7 @@
                 <div class="card text-center">
                     <figure>
                         <div class="flex justify-center mb-4">
-                            <img class="w-24 h-24 rounded-full border-2 border-gray-300" src="your-image-url.jpg" alt="Profile Image">
+                            <img class="w-24 h-24 rounded-full border-2 border-gray-300" src="{{ asset('frontend/img/about.png') }}" alt="Profile Image">
                         </div>
                         <figcaption style="font-family: kalpurush"> <h2 class="text-xl font-bold text-gray-800 mb-2">হাফেজ মুহাম্মদ আব্দুল্লাহ শেখ</h2> </figcaption>     
                     </figure>

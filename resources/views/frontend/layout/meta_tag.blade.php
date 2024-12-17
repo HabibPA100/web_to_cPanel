@@ -19,9 +19,6 @@
     <meta name="twitter:title" content="Madrasah Hedâyatul Ummah Dhaka">
     <meta name="twitter:description" content="Providing quality Islamic education and nurturing future leaders rooted in values.">
     <meta name="twitter:image" content="https://madrasahedayatulummahdhaka.xyz/frontend/img/about.png">
-
-    {{-- Sweet Alert cdn is here  --}}
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <!-- Optional Additional Tags -->
     <meta property="og:site_name" content="Madrasah Hedâyatul Ummah Dhaka">
     <meta property="og:locale" content="bn_BD">
